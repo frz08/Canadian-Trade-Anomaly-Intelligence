@@ -47,8 +47,7 @@ Power BI Report → Published to Fabric Workspace
 
 ## 🔗 Live Report
 
-[View Dashboard](#) *https://app.powerbi.com/view?r=eyJrIjoiYzM1ZThiNDMtODgxMC00MjQ0LThlNzMtYjAyNjdlOWFmZGEyIiwidCI6ImY1MmYyMTgzLTlmNjctNGFkMi1iNjU2LTZmNzU0ZmUxOTZjYiIsImMiOjZ9*
-
+[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzM1ZThiNDMtODgxMC00MjQ0LThlNzMtYjAyNjdlOWFmZGEyIiwidCI6ImY1MmYyMTgzLTlmNjctNGFkMi1iNjU2LTZmNzU0ZmUxOTZjYiIsImMiOjZ9)
 ---
 
 *Developed by Farhaz Kolathoor*
