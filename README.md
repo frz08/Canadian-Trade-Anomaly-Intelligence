@@ -71,7 +71,7 @@ trade-anomaly-detector/
 
 ## 📬 Demo
 
-This app runs locally. For a live demo, feel free to reach out — demo available on request.
+[🚀 Live Demo](https://canadian-trade-anomaly-intelligence-prkppxmvlx92es5pxgdr3w.streamlit.app/)
 
 ---
 
